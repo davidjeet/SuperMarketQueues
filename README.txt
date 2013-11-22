@@ -1,0 +1,1 @@
+An experiment in Queue Theory using EasyNetQ and task parallelism. Maybe some Monte Carlo thrown in there too.
